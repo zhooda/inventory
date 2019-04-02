@@ -1,6 +1,6 @@
-# Backpack Inventory Manager - OOP1 Multi Day
+# Daily Item Inventory Manager - OOP1 Multi Day
 
-*insert basic info here*
+This program is designed to display personal items in multiple storage locations, move items between locations, and add or remove items.
 
 ## Getting Started
 
@@ -28,14 +28,13 @@ cd ~/inventory
 
 # Run python main
 python main.py
+'''
 
-# Eat something to replenish your strength
-# Cloning git repos takes a lot of energy
-```
-
-## Built With
+# Built With
 
 - [Atom](https://atom.io) - The superior text editor
+- [CodeRunner 3](https://coderunnerapp.com) - The best debugger with python breakpoints
+- [Sublime Text 3](https://sublimetext.com) - It's just great
 
 ## Contributors
 - No one yet :(
