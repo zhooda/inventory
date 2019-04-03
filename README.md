@@ -28,7 +28,7 @@ cd ~/inventory
 
 # Run python main
 python main.py
-'''
+```
 
 # Built With
 
